@@ -3,7 +3,7 @@ body{
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-background-image: url( https://cdn.glitch.global/0185924c-0598-4793-a1c0-cd28daad41de/pexels-jake-heinemann-2399254.jpg?v=1679532243983);
+background-image: url("/.taxi.jpg");
 }
 #conteiner{background-color:rgba(201,244,170,0.5);
     display: flex;
