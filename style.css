@@ -3,7 +3,7 @@ body{
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-background-image: url("/.taxi.jpg");
+background-image: url("/taxi.jpg");
 }
 #conteiner{background-color:rgba(201,244,170,0.5);
     display: flex;
